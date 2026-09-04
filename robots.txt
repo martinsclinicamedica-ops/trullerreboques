@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://trullerreboques.com.br/sitemap.xml
